@@ -1,6 +1,6 @@
 # Package simple robo sorter
 
-This Go module implements a package classification system for Thoughtful's robotic automation factory. The system determines how to dispatch packages based on their size (volume and dimensions) and weight.
+This Go module implements a package classification system for robotic automation factory. The system determines how to dispatch packages based on their size (volume and dimensions) and weight.
 
 ## Classification Rules
 
