@@ -30,6 +30,12 @@ func sort(width, height, length, mass int) string
 ```
 
 ## Interactive CLI
+###  Clone the repository
+
+```
+$ git clone https://github.com/reshmavatkar/simple-robo-sort
+$ cd simple-robo-sort
+```
 ### Run the program:
 ```
 go run main.go
@@ -43,4 +49,10 @@ Height (cm): 100
 Length (cm): 100
 Mass (kg): 10
 Dispatch to: SPECIAL stack
+```
+
+## Unit Testing
+Run tests:
+```
+go test
 ```
